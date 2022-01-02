@@ -1,2 +1,4 @@
 # Smart-Contracts
-where I mess with Smart Contracts
+messing with Smart Contracts
+-tokens
+-trading
